@@ -1,3 +1,5 @@
-LS -> Lista arquivos
+ls -> Lista arquivos
 cd -> move entre diretórios
 pwd -> mostra diretórios de trabalho
+cat -> mostra o que tem dentro do arquivo
+rm -rf nomeDaPasta -> exclui a pasta
